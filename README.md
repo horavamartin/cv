@@ -1,1 +1,1 @@
-<h1>Curriculum vitæ</h1>
+<h1>Curriculum vitae</h1>
